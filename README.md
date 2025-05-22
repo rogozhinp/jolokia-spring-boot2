@@ -1,0 +1,1 @@
+Simple jolokia instrumented spring-boot-2 app for testing with authorization
